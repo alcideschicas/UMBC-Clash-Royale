@@ -4,4 +4,4 @@ Command line interface version of popular mobile card game Clash Royale, built u
 
 Program reads in file of troops and creates game against computer.
 
-To run, compile with "make" and run with "make run"
+To run, compile with "make" and execute with "make run"
